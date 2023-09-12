@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi I'm Enobong(Airnoh)👋
 
-<!--
-**airnoh/airnoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced backend web developer with strong commitment to developing scalable backend solution to functional softwares.
 
-Here are some ideas to get you started:
+💡 More About Me
+• 🌱Currently diving deep into NodeJs(ExpressJS and NestJs) to develop high performance APIs 
+• 👯I'm enthusiastic about collaborating with teams on back-end projects
+• 💬 Feel free to ask me anything related to backend development, databases, API design, or server infrastructure. I love sharing knowledge and discussing tech concepts
+• 😄 My pronouns are She and Her
+• ⚡ Fun fact: In my free time, I like to relax by playing strategy games🎮, listeninig to music🎶 and dancing💃🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+• Languages: HTML, CSS, JavaScript JavaScript, Typescript
+• Framework: ExpressJs, NestJs
+• Databases: MongoDB, MySQL
+• DevOps: Git
+
