@@ -1,6 +1,6 @@
 Hi I'm Enobong(Airnoh)👋
 
-I'm an experienced backend web developer with strong commitment to developing scalable backend solution to functional softwares.
+I'm an enthusiastic backend web developer with strong commitment to developing scalable backend solution to functional softwares.
 
 💡 More About Me
 
